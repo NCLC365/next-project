@@ -1,51 +1,56 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Next Project"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
+  title: "Discover 365 No-Code & AI Tools to Scale Your Business"
+  content: "One place to find, compare, and access the best no-code, low-code, and AI tools for automation, website building, marketing, and more."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Get Instant Access for INR 299"
     link: "https://github.com/zeon-studio/nextplate"
 
 # Features
 features:
-  - title: "What's Included in Nextplate"
+  - title: "What's Included in NCLC365"
     image: "/images/service-1.png"
-    content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
+    content: "365 Tools / Resources with searchable and filterable 25 parameters, suiting your need."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Next and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "365 No-Code, Low-Code Tools list"
+      - "25+ Headers"
+      - "One Click access to tools"
+      - "Short description"
+      - "Costing"
+      - "Monetization with examples"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Next"
+  - title: "Discover the Key Features Of NCLC365"
     image: "/images/service-2.png"
-    content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "NCLC365 is your all-in-one directory of the best No-Code, Low-Code, and AI tools. Whether you're an entrepreneur, developer, or marketer, our carefully curated list of 365+ tools ensures you find the perfect solution for your needs."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Comprehensive Database – A well-researched list of 365+ tools for automation, website building, AI, and more."
+      - "Advanced Search & Filters – Quickly find tools by category, price, or feature."
+      - " One-Click Access – Direct links to each tool’s official website for easy exploration."
+      - " Pricing & Features Breakdown – Compare tools with detailed pricing, free plans, and premium features."
+      - " Regular Updates – We keep the list up-to-date with the latest industry trends."
+      - " Lifetime Access for One-Time Fee – No subscriptions. Pay once, get unlimited updates!"
     button:
       enable: true
-      label: "Get Started Now"
+      label: "Get Instant Access for INR 299"
       link: "https://github.com/zeon-studio/nextplate"
 
-  - title: "The Top Reasons to Choose Next for Your Next Project"
+  - title: "The Top Reasons to Choose NCLC365"
     image: "/images/service-3.png"
-    content: "With Next, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Finding the right No-Code, Low-Code, or AI tool can be overwhelming. NCLC365 simplifies the process by offering a curated, structured, and ready-to-use list of 365+ tools, saving you hours of research."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Next a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - " 365+ Curated Tools in One Place – No need to browse endless websites; we’ve done the hard work for you."
+      - " Perfect for Entrepreneurs, Developers & Marketers – Whether you’re building, automating, or scaling, we have the right tools for you."
+      - " Easy-to-Use Search & Filters – Find tools by category, pricing, features, and more."
+      - " Comprehensive Insights – Each tool includes pricing, use cases, and quick descriptions to help you decide fast."
+      - " Lifetime Access for Just INR 299 – One-time payment, no recurring fees."
+      - " Regular Updates – Our list keeps evolving to include the latest and best tools."
     button:
       enable: false
       label: ""
